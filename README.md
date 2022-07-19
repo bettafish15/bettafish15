@@ -1,6 +1,6 @@
 ### He<!-- HTML -->
 
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />y! 
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 if you are here to play some chess, jump down and skip the boring introduction below ... :D
 
