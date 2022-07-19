@@ -2,16 +2,16 @@
 if you are here to play game, jump down and skip the boring introduction below ... :D
 
 <a href="https://twitter.com/Bettafish15">
-  <img align="left" alt="My Tweeter" width="22px" src="https://github.com/bettafish15/bettafish15/blob/main/twitter.svg" />
+  <img align="left" alt="My Tweeter" width="22px" src="https://github.com/bettafish15/bettafish15/blob/master/twitter.svg" />
 </a>
 <a href="https://www.facebook.com/hung.nguyenhoang.77736">
-  <img align="left" alt="My Facebook" width="22px" src="https://github.com/bettafish15/bettafish15/blob/main/facebook.svg" />
+  <img align="left" alt="My Facebook" width="22px" src="https://github.com/bettafish15/bettafish15/blob/master/facebook.svg" />
 </a>
 <a href="https://www.instagram.com/johncage1129">
-  <img align="left" alt="My Instagram" width="22px" src="https://github.com/bettafish15/bettafish15/blob/main/instagram.svg" />
+  <img align="left" alt="My Instagram" width="22px" src="https://github.com/bettafish15/bettafish15/blob/master/instagram.svg" />
 </a>
 <a href="https://www.linkedin.com/in/hungnguyenhoang1996/">
-  <img align="left" alt="My LinkedIn" width="22px" src="https://github.com/bettafish15/bettafish15/blob/main/linkedin.svg" />
+  <img align="left" alt="My LinkedIn" width="22px" src="https://github.com/bettafish15/bettafish15/blob/master/linkedin.svg" />
 </a>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=bettafish15.bettafish15)
@@ -20,7 +20,7 @@ if you are here to play game, jump down and skip the boring introduction below .
 
 hi, i'm [Bettafish15](https://devchaycoi.com/), and I like to build awesome softwares. I can build websites, browser plugins, scripts, tools, corporate softwares and even games! If you are interested, need something built or simply want to have chat? Reach out to me on social media or send me an message.
 
-<img align="right" alt="GIF" src="https://github.com/bettafish15/bettafish15/blob/main/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/bettafish15/bettafish15/blob/master/code.gif?raw=true" width="500" height="320" />
 
 If you are here to play chess, then jump right down to play!
 
