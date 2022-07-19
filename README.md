@@ -36,6 +36,12 @@ hi, i'm [Bettafish15](https://devchaycoi.com/), and I like to build awesome soft
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 # Open Chess tournament !!!
 
