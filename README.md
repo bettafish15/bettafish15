@@ -8,7 +8,7 @@ if you are here to play game, jump down and skip the boring introduction below .
   <img align="left" alt="My Facebook" width="22px" src="https://github.com/bettafish15/bettafish15/blob/main/facebook.svg" />
 </a>
 <a href="https://www.instagram.com/johncage1129">
-  <img align="left" alt="My Instagram" width="22px" src="https://github.com/bettafish15/bettafish15/blob/main/instagram.png" />
+  <img align="left" alt="My Instagram" width="22px" src="https://github.com/bettafish15/bettafish15/blob/main/instagram.svg" />
 </a>
 <a href="https://www.linkedin.com/in/hungnguyenhoang1996/">
   <img align="left" alt="My LinkedIn" width="22px" src="https://github.com/bettafish15/bettafish15/blob/main/linkedin.svg" />
