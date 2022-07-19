@@ -19,7 +19,7 @@ if you are here to play some chess, jump down and skip the boring introduction b
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=bettafish15.bettafish15)
 
-[![Bettafish15's GitHub stats](https://github-readme-stats.vercel.app/api?username=bettafish15)](https://github.com/anuraghazra/github-readme-stats)
+[![Bettafish15's GitHub stats](https://github-readme-stats.vercel.app/api?username=bettafish15&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 
 hi, i'm [Bettafish15](https://devchaycoi.com/), and I like to build awesome softwares. I can build websites, browser plugins, scripts, tools, corporate softwares and even games! If you are interested, need something built or simply want to have chat? Reach out to me on social media or send me an message.
