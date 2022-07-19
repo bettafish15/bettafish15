@@ -1,5 +1,5 @@
 ### Hey! 
-if you are here to play game, jump down and skip the boring introduction below ... :D
+if you are here to play some chess, jump down and skip the boring introduction below ... :D
 
 <a href="https://twitter.com/Bettafish15">
   <img align="left" alt="My Tweeter" width="22px" src="https://github.com/bettafish15/bettafish15/blob/master/twitter.svg" />
@@ -22,7 +22,20 @@ hi, i'm [Bettafish15](https://devchaycoi.com/), and I like to build awesome soft
 
 <img align="right" alt="GIF" src="https://github.com/bettafish15/bettafish15/blob/master/code.gif?raw=true" width="500" height="320" />
 
-If you are here to play chess, then jump right down to play!
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 # Open Chess tournament !!!
 
