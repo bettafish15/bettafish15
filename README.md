@@ -17,8 +17,6 @@ if you are here to play some chess, jump down and skip the boring introduction b
   <img align="left" alt="My LinkedIn" width="22px" src="https://github.com/bettafish15/bettafish15/blob/master/linkedin.svg" />
 </a>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=bettafish15.bettafish15)
-
 [![Bettafish15's GitHub stats](https://github-readme-stats.vercel.app/api?username=bettafish15&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 
