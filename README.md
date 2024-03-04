@@ -16,7 +16,7 @@ if you are here to play some chess, jump down and skip the boring introduction b
 <a href="https://www.linkedin.com/in/hungnguyenhoang1996/">
   <img align="left" alt="My LinkedIn" width="22px" src="https://github.com/bettafish15/bettafish15/blob/master/linkedin.svg" />
 </a>
-
+<br />
 [![Bettafish15's GitHub stats](https://github-readme-stats.vercel.app/api?username=bettafish15&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 
